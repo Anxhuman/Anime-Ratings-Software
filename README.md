@@ -10,7 +10,12 @@ Mostly created with the intent to have a personalized database for all Animes.
 
 <p><b>How to setup the Program.</b></p>
 
+1> Open the Anime Ratings Software [Main-Setup] Folder.
 
-Copy the Resource folder to D drive as (D:\Resources).
-Open the Program.
+2> Copy the Resource folder to D drive as (D:\Resources).
 
+3> Open the Program.
+
+4> If you had problem with Texts then open the Emp.mdb file and edit it.
+
+![4](https://user-images.githubusercontent.com/24821864/134786493-af885cf3-a69d-4e8c-a7e3-e5f7bfde5e3a.png)
